@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://ruoxuanbai-lbs-2021.netlify.app/
 languageCode: en-us
 title: Portfolio website for Ruoxuan Bai 
 theme: forty
@@ -8,9 +8,9 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Ruoxuan Bai 
+     # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+     # AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Ruoxuan Bai, currently a MFA student at London Business School. Very nice meeting you!
   blog: {}
   contact:
     address:
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (647) 9790629
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,13 +35,16 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Ruoxuan Bai - London Business School, 2021
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
+     # - icon: twitter
+      #  label:
+       # url:
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com/ruoxuan.bai/
