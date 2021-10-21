@@ -92,19 +92,19 @@ params:
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Homework 1
-        url: blogs/magna
+        url: Homework1.html
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Homework 2
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Homework 3
-        url: blogs/ipsum
+        url: homework2.html
       - image: milan.jpeg
         subtitle: A analytical project for AirBnB in Milan 
         title: AirBnB Group Project
-        url: blogs/group_project
+        url: group_project.html
+      - image: pic05.jpg
+        subtitle:  
+        title: Group Presentation
+        url: AirBnB.pptx
   two:
     buttonText: Get Started
     enable: yes
