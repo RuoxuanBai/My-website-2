@@ -89,19 +89,19 @@ params:
         subtitle: A professional resume of a future investment banker
         title: Resume
         url: resume.pdf
-      - image: stock.jpeg
+      - image: stock.jpg
         subtitle: Stock Analysis Homework
         title: Homework 1
         url: Homework1.html
-      - image: data.jpeg
+      - image: data.png
         subtitle: Hypothesis Testing Homework
         title: Homework 3
         url: homework3.html
-      - image: milan.jpeg
+      - image: milan.jpg
         subtitle: A analytical project for AirBnB in Milan 
         title: AirBnB Group Project
         url: group_project.html
-      - image: milan.jpeg
+      - image: milan.jpg
         subtitle: A detailed presentation for AirBnb project
         title: Group Presentation
         url: AirBnB.pdf
