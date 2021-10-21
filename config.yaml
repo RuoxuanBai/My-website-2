@@ -91,15 +91,15 @@ params:
         url: resume.pdf
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: Homework 1
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        title: Homework 2
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        title: Homework 3
         url: blogs/ipsum
       - image: milan.jpeg
         subtitle: A analytical project for AirBnB in Milan 
