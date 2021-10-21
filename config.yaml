@@ -6,11 +6,11 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Know more about me
     subtitle: |-
-     # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-     # AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Ruoxuan Bai, currently a MFA student at London Business School. Very nice meeting you!
+     A Finance Major Student at London Business School
+     And Someone with Passion for Everything in Life.
+    title: Welcome to Ruoxuan Bai's website. Very nice meeting you!
   blog: {}
   contact:
     address:
@@ -71,24 +71,24 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#- name: Generic Blog
+# url: blogs/ipsum
+#- name: Elements
+# url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: lbs.jpg
+        subtitle: A year when I meet with everything
+        title: London Business School
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: pic08.jpeg
+        subtitle: A professional resume of a future investment banker
+        title: Resume
+        url: resume.pdf
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
