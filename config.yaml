@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: A year when I meet with everything
         title: London Business School
-        url: blogs/aliquam
+        url: https://www.london.edu/masters-degrees/masters-in-financial-analysis/
       - image: pic08.jpeg
         subtitle: A professional resume of a future investment banker
         title: Resume
@@ -101,10 +101,10 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: milan.jpeg
+        subtitle: A analytical project for AirBnB in Milan 
+        title: AirBnB Group Project
+        url: blogs/group_project
   two:
     buttonText: Get Started
     enable: yes
